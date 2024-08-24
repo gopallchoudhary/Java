@@ -6,3 +6,7 @@
 => java supports UNICODE (have bigger range than ascii)
 => conversion is automatic conversion
 => casting is explicit conversion. ex:- float f = 4.4f; int x = (int) f;
+=> == is equal to
+=> != is not equal to
+=> <= less than or equal to
+=> >= greater than or equal to
